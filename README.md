@@ -8,8 +8,14 @@ The dashboard explores customer behavior, restaurant performance, and key operat
 ---
 
 ## 📊 Dashboard Preview
-[Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Data-analysis-project-FoodPanda-data-set/edit/main/dashboard 1.png)
-[Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Data-analysis-project-FoodPanda-data-set/edit/main/dashboard 2.png)
+**Dashboard 1**
+
+![Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Data-analysis-project-FoodPanda-data-set/blob/main/dashboard%201.png)
+
+**Dashboard 2**
+
+![Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Data-analysis-project-FoodPanda-data-set/blob/main/dashboard%202.png)
+
 ---
 
 ## 🎯 Project Objective
