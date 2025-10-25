@@ -77,7 +77,6 @@ The focus is on understanding customer retention, order behavior, and operationa
   - PivotTables and PivotCharts for dynamic analysis  
   - Slicers for interactivity  
   - Conditional Formatting for highlighting insights  
-  - Basic DAX-style measures using Data Model
 
 ---
 
@@ -116,11 +115,6 @@ The focus is on understanding customer retention, order behavior, and operationa
 ---
 
 ## 👩‍💻 Author
-**Zara**  
+**Tatheer Zahra**  
 _Aspiring Data Analyst | BI Intern @ AidaDataYard_  
 📍 [LinkedIn Profile](www.linkedin.com/in/tatheer-zahra-6a1232289)
-
----
-
-## 🪪 License
-This project is open-source and available under the **MIT License**.
